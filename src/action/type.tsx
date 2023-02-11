@@ -1,0 +1,4 @@
+export  default  {
+    "PARTALIST":"PARTALIST",
+    "PRODUCTORDERID":"PRODUCTORDERID"
+}
